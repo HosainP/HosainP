@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 
 **Stats**:
 
-<p align="left">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosainp&layout=compact&theme=algolia" alt="hosainp" /> 
 </p>
 
-<p align="left"> 
-<img src="https://github-readme-stats.vercel.app/api?username=rsharifnasab&show_icons=true&theme=algolia"/>
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api?username=hosainp&show_icons=true&theme=algolia"/>
 </p>
