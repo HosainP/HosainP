@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hey! I'm Hosain</h1>
+
+**About me:** 
+- I’m currently studynig CE at Shahid Beheshti University
+- How to reach me: [Email](mailto:hosain.pishgahi@gmail.com)
+
